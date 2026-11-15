@@ -22,10 +22,6 @@ Free edition for everyone. Home and Pro editions for people who install more tha
 
 ---
 
-<p align="center">
-  <a href="https://www.setupfoundry.com"><img src="../bilder/setup-foundry_github_de_1280.jpg" alt="Setup Foundry" width="100%"></a>
-</p>
-
 ## Deutsch
 
 Perfekte Windows-Installationen. Vollautomatisch. In Ihrer Hand.
